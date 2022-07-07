@@ -22,7 +22,7 @@ public class BubbleSorting
 
 
         //bubble sort
-        System.out.println("Your unsorted array is : ");
+        System.out.println("Your sorted array is : ");
         for(int i=0; i<number-1; i++)
         {
             for (int j=0; j<number-i-1; j++)
